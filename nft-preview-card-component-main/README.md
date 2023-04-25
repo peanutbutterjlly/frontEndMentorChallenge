@@ -43,5 +43,5 @@ Users should be able to:
 ## Author
 
 - Website - [Steve Rios](https://www.github.com/peanutbutterjlly)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/peanutbutterjlly)
+- Frontend Mentor - [@peanutbutterjlly](https://www.frontendmentor.io/profile/peanutbutterjlly)
 - Twitter - [@steve_developr](https://www.twitter.com/steve_developr)
