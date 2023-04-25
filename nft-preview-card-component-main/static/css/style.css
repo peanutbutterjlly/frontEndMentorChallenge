@@ -88,6 +88,8 @@ article > :last-child {
 
 .card-footer {
   display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
 .hover:hover {
@@ -129,10 +131,20 @@ article > :last-child {
   display: block;
 }
 
+.avatar {
+  border: 1px solid var(--white);
+  border-radius: 50%;
+  width: 2rem;
+}
+
 @media (max-width: 375px) {
   article {
     width: 90vw;
     height: 85vh;
-    gap: 0.4em;
+    gap: 0.6em;
+  }
+
+  article > :last-child {
+    padding-bottom: 0.2rem;
   }
 }
