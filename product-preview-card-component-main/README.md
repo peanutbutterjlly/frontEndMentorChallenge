@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/peanutbutterjlly/frontEndMentor/tree/main/product-preview-card-component-main](https://github.com/peanutbutterjlly/frontEndMentor/tree/main/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/peanutbutterjlly/frontEndMentorChallenge/tree/main/product-preview-card-component-main](https://github.com/peanutbutterjlly/frontEndMentorChallenge/tree/main/product-preview-card-component-main)
+- Live Site URL: [https://front-end-mentor-challenge-navy.vercel.app](https://front-end-mentor-challenge-navy.vercel.app)
 
 ## My process
 
